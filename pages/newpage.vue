@@ -2,7 +2,7 @@
     <header>
         <h1>アイルトン・セナの戦績</h1>
     </header>
-
+n
     <div class="container">
         <img src="https://autotest.com.ar/wp-content/uploads/2021/04/AYRTON-SENNA.jpg" alt="https://autotest.com.ar/wp-content/uploads/2021/04/AYRTON-SENNA.jpg" style="max-width: 100%; height: auto;">
         
