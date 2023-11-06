@@ -69,7 +69,7 @@
   </head>
   <body>
       <header>
-          <h1>アイルトン・セナの戦績</h1>
+          <h1>Ayrton Senna</h1>
       </header>
   
       <div class="container">
@@ -108,8 +108,23 @@
   
           <img src="https://s2-ge.glbimg.com/Xtft6kSbv4nPg98wP3uZus7f9sQ=/0x0:5000x3333/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/3/B/SeQMo8R1AvC6AOQEEBsg/gettyimages-622342562.jpg" alt="https://s2-ge.glbimg.com/Xtft6kSbv4nPg98wP3uZus7f9sQ=/0x0:5000x3333/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/3/B/SeQMo8R1AvC6AOQEEBsg/gettyimages-622342562.jpg">
           
+          <h2>アイルトン・セナの最後</h2>
+          <p>
+              セナは1994年にウィリアムズへ移籍しました。このシーズンに乗っていたマシーンはWilliams FW16です。
+          </p>
+  
+          <h2>セナが乗っていたWilliams FW16</h2>
+          <img src="https://cdn-image.as-web.jp/2021/04/29122833/asimg_P_1-11-c_29608a27e0a372e.jpg">
+          <p>
+              ですがF1 1994 第3戦 サンマリノGPで予選中にクラッシュで親友の「ローランド・ラッツェンバーガー」を失い、セナ本人も決勝レース中にクラッシュし搬送先の病院で亡くなりました。
+              セナは予選終了後、親友のラッツェンバーガーがなくなったことに対し「もう走りたくない」と恋人に電話をしていました。
+          </p>
+          <img src="https://i0.wp.com/static.smalljoys.me/2018/01/the-fatal-accident-of-the-hero-ayrton-senna-in-the-f1-world_63168904.jpg?w=1308&ssl=1&strip=all">
           <h2>ビデオ</h2>
-          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nL5liGMND_0?si=KNxGl24C2rxERaZ-&amp;start=553" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <p>
+            ショッキングな内容が含まれます、ご視聴にはご注意下さい。
+          </p>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/x9znf-lpg4Q?si=mDSzzCVgr-CVwmyz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
   
       <footer>
