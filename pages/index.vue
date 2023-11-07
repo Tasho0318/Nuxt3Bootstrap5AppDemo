@@ -14,8 +14,9 @@
      
       body {
         background-color: #f5f5dc;
-      .page-title {
+      .page-title 
       font-size: 48px;
       margin-top: 40px;
+      }
     </style>
   </template>  

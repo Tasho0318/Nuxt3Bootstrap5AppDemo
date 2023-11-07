@@ -73,7 +73,7 @@
         </header>
     
         <div class="container">
-            <img src="https://autotest.com.ar/wp-content/uploads/2021/04/AYRTON-SENNA.jpg" alt="https://autotest.com.ar/wp-content/uploads/2021/04/AYRTON-SENNA.jpg" style="max-width: 100%; height: auto;">
+            <img src="https://autotest.com.ar/wp-content/uploads/2021/04/AYRTON-SENNA.jpg" alt="セナの顔写真" style="max-width: 50%; height: auto;">
             
             <h2>プロフィール</h2>
             <p>
@@ -106,7 +106,7 @@
                 アイルトン・セナがマクラーレンで乗っていたMP4/4は、16戦中15勝という伝説があります.
             </p>
     
-            <img src="https://s2-ge.glbimg.com/Xtft6kSbv4nPg98wP3uZus7f9sQ=/0x0:5000x3333/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/3/B/SeQMo8R1AvC6AOQEEBsg/gettyimages-622342562.jpg" alt="https://s2-ge.glbimg.com/Xtft6kSbv4nPg98wP3uZus7f9sQ=/0x0:5000x3333/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/3/B/SeQMo8R1AvC6AOQEEBsg/gettyimages-622342562.jpg">
+            <img src="https://s2-ge.glbimg.com/Xtft6kSbv4nPg98wP3uZus7f9sQ=/0x0:5000x3333/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/3/B/SeQMo8R1AvC6AOQEEBsg/gettyimages-622342562.jpg" alt="MP4/4の画像" style="max-width: 50%; height: auto;">
             
             <h2>アイルトン・セナの最後</h2>
             <p>
@@ -116,7 +116,7 @@
             </p>
     
             <h2>セナが乗っていたWilliams FW16</h2>
-            <img src="https://cdn-image.as-web.jp/2021/04/29122833/asimg_P_1-11-c_29608a27e0a372e.jpg">
+            <img src="https://cdn-image.as-web.jp/2021/04/29122833/asimg_P_1-11-c_29608a27e0a372e.jpg" alt="FW16の画像" style="max-width: 50%; height: auto;">
             <p>
                 ですがF1 1994 第3戦 サンマリノGPで予選中にクラッシュで親友の「ローランド・ラッツェンバーガー」を失い、セナ本人も決勝レース中にクラッシュし搬送先の病院で亡くなりました。
                 セナは予選終了後、親友のラッツェンバーガーがなくなったことに対し「もう走りたくない」と恋人に電話をしていました。
@@ -124,7 +124,7 @@
                 サイト下のビデオ動画00:09でセナはカウンターを当てましたがマシーンはいうことを聞かずに壁に衝突しました。
                 その際にマシーンの破片がセナのヘルメットを貫通し破片が脳に到達し、事故直後ではほぼ即死状態でした。
             </p>
-            <img src="https://i0.wp.com/static.smalljoys.me/2018/01/the-fatal-accident-of-the-hero-ayrton-senna-in-the-f1-world_63168904.jpg?w=1308&ssl=1&strip=all">
+            <img src="https://i0.wp.com/static.smalljoys.me/2018/01/the-fatal-accident-of-the-hero-ayrton-senna-in-the-f1-world_63168904.jpg?w=1308&ssl=1&strip=all" alt="クラッシュしたFW16の画像" style="max-width: 50%; height: auto;">
             <h2>ビデオ</h2>
             <p>
               ショッキングな内容が含まれます、ご視聴にはご注意下さい。

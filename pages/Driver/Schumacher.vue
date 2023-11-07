@@ -73,7 +73,7 @@
         </header>
     
         <div class="container">
-            <img src="https://f1-gate.com/media/img2022/20220720-f1-michael-schumacher.jpg" alt="https://f1-gate.com/media/img2022/20220720-f1-michael-schumacher.jpg" style="max-width: 100%; height: auto;">
+            <img src="https://f1-gate.com/media/img2022/20220720-f1-michael-schumacher.jpg" alt="シューマッハの顔写真" style="max-width: 50%; height: auto;">
             
             <h2>プロフィール</h2>
             <p>
@@ -108,7 +108,7 @@
                 シューマッハがフェラーリで乗っていたF2004は、その年の支配的なマシンとして知られ、多くのレースで圧倒的なパフォーマンスを見せました.
             </p>
     
-            <img src="https://s.response.jp/imgs/p/mNECeKegOUvqFa6-p0pU_X5Mz0HRQkNERUZH/35581.jpg" alt="https://s.response.jp/imgs/p/mNECeKegOUvqFa6-p0pU_X5Mz0HRQkNERUZH/35581.jpg">
+            <img src="https://s.response.jp/imgs/p/mNECeKegOUvqFa6-p0pU_X5Mz0HRQkNERUZH/35581.jpg" alt="F2004の車体の画像" style="max-width: 50%; height: auto;">
             
             <h2>アイルトン・セナの最後</h2>
             <p>
@@ -118,7 +118,7 @@
             </p>
     
             <h2>セナが乗っていたWilliams FW16</h2>
-            <img src="https://cdn-image.as-web.jp/2021/04/29122833/asimg_P_1-11-c_29608a27e0a372e.jpg">
+            <img src="https://cdn-image.as-web.jp/2021/04/29122833/asimg_P_1-11-c_29608a27e0a372e.jpg" alt="F2004の車体の画像" style="max-width: 50%; height: auto;">
             <p>
                 ですがF1 1994 第3戦 サンマリノGPで予選中にクラッシュで親友の「ローランド・ラッツェンバーガー」を失い、セナ本人も決勝レース中にクラッシュし搬送先の病院で亡くなりました。
                 セナは予選終了後、親友のラッツェンバーガーがなくなったことに対し「もう走りたくない」と恋人に電話をしていました。
@@ -131,7 +131,7 @@
             <p>
               ショッキングな内容が含まれます、ご視聴にはご注意下さい。
             </p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/x9znf-lpg4Q?si=mDSzzCVgr-CVwmyz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sunsets don&#39;t get much better than this one over <a href="https://twitter.com/GrandTetonNPS?ref_src=twsrc%5Etfw">@GrandTetonNPS</a>. <a href="https://twitter.com/hashtag/nature?src=hash&amp;ref_src=twsrc%5Etfw">#nature</a> <a href="https://twitter.com/hashtag/sunset?src=hash&amp;ref_src=twsrc%5Etfw">#sunset</a> <a href="http://t.co/YuKy2rcjyU">pic.twitter.com/YuKy2rcjyU</a></p>&mdash; US Department of the Interior (@Interior) <a href="https://twitter.com/Interior/status/463440424141459456?ref_src=twsrc%5Etfw">May 5, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
     
         <footer>
