@@ -124,7 +124,7 @@
         </div>
     
         <footer>
-            <p>&copy; 2023 ミハエル・シューマッハ</p>
+            <p>&copy; 2024 ミハエル・シューマッハ</p>
         </footer>
     </body>
     </html>

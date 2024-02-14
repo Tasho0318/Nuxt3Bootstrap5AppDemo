@@ -1,28 +1,31 @@
 <template>
-    <div>
-      <h1>Red Bull サイト</h1>
-      <div v-if="redbullInfo">
-        <h2>{{ redbullInfo.name }}</h2>
-        <p>{{ redbullInfo.description }}</p>
-        <img :src="redbullInfo.image" alt="Red Bull">
-      </div>
-      <div v-else>
-        <p>データを取得中...</p>
-      </div>
-    </div>
-  </template>
+  <div class="container">
+     <h1 class="page-title">Formula One Driverを紹介するサイト。</h1>
+    <ul>
+      <li>
+        <nuxt-link to="/Driver/Senna">アイルトン・セナ</nuxt-link>
+      </li>
+      <li>
+        <nuxt-link to="/Driver/Schumache">ミハエル・シューマッハ</nuxt-link>
+      </li>
+    </ul>
+  </div>
+  <style>
   
-  <script>
-  export default {
-    async asyncData({ $axios }) {
-      try {
-        const response = await $axios.get('https://api.example.com/redbull'); // Red BullのAPIエンドポイントを実際のものに変更してください
-        return { redbullInfo: response.data };
-      } catch (error) {
-        console.error('APIエラー:', error);
-        return { redbullInfo: null };
-      }
-    },
-  };
-  </script>
-  
+  .background {
+  background-image: url('/Image/F1logo.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+  </style>
+
+<footer>
+            <p>&copy; 2024 Formula One</p>
+        </footer>
+    </template>

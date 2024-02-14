@@ -133,7 +133,7 @@
         </div>
     
         <footer>
-            <p>&copy; 2023 アイルトン・セナ</p>
+            <p>&copy; 2024 アイルトン・セナ</p>
         </footer>
     </body>
     </html>
